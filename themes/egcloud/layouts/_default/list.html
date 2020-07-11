@@ -1,0 +1,6 @@
+{{ define "main" }}
+  {{ if ne .Params.type nil }}
+  {{ $type := printf "%s.html" .Params.type }}
+  {{ partial $type . }}
+  {{ end }}
+{{ end }}

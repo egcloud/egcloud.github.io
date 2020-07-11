@@ -1,0 +1,13 @@
+navs:
+  - title: "主页"
+    url: "/"
+  - title: "产品介绍"
+    url: "/product/"
+  - title: "解决方案"
+    url: "/solution/"
+  - title: "开发者"
+    url: "/develop/"
+  - title: "价格"
+    url: "/price/"
+  - title: "公司概要"
+    url: "/company/"
